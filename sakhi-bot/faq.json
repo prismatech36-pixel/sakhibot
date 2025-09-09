@@ -1,0 +1,30 @@
+[
+  {
+    "keywords": ["hello", "hi"],
+    "answer": "Hello! 👋 I am Sakhi, your POSH Awareness Chatbot from Sakshi NGO. How can I support you today?"
+  },
+  {
+    "keywords": ["posh"],
+    "answer": "POSH stands for *Prevention of Sexual Harassment at Workplace*. It ensures safe, respectful, and inclusive workplaces."
+  },
+  {
+    "keywords": ["history of posh", "posh history"],
+    "answer": "The history of POSH in India is rooted in the *Vishaka Guidelines (1997)*, laid down by the Supreme Court after the Bhanwari Devi case. These guidelines became the foundation of the *POSH Act, 2013*."
+  },
+  {
+    "keywords": ["sakshi", "ngo"],
+    "answer": "Sakshi NGO was a key petitioner in the *Vishaka vs State of Rajasthan case (1997)* that led to the Vishaka Guidelines, the first step towards POSH law in India. Sakshi continues to train, guide, and support organizations in implementing POSH."
+  },
+  {
+    "keywords": ["rights"],
+    "answer": "Under the POSH Act (2013), every employee has the right to a safe workplace free of sexual harassment. Organizations must have an Internal Committee (IC) to handle complaints."
+  },
+  {
+    "keywords": ["complaint"],
+    "answer": "To file a complaint, approach your organization's Internal Committee (IC) or HR. If support is needed, Sakshi NGO can guide and assist in the process."
+  },
+  {
+    "keywords": ["bye"],
+    "answer": "Goodbye 👋 Stay safe and remember, Sakhi is always here for you. 💜"
+  }
+]
